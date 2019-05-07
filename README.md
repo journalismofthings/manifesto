@@ -1,8 +1,6 @@
 
 # Manifest für einen Journalismus der Dinge
 
-## Vorspann
-
 *Wir begründen heute, am 8. Mai 2019 den Journalismus der Dinge. Das Internet der Dinge verändert die Welt grundlegend. Es gibt eine rasant zunehmende Zahl und Allgegenwärtigkeit vernetzter Geräte. Ob Drohnen, Sprachassistenten, Fitnesstracker, Satelliten, Kameras, Luft-, PH- oder Abstandssensoren. Sie alle sind so verfügbar und billig wie nie zuvor. Durch ihre Vernetzung mit Menschen und anderen Maschinen über das Internet verändert diese Entwicklung weitreichend, wie wir die Welt sehen und welche Informationen über uns gesammelt werden. Wir teilen die Überzeugung, dass diese Entwicklung langfristige Folgen für Gesellschaft, Umwelt und die Verteilung von Macht haben wird. Um diese Entwicklungen sowohl kritisch begleiten als auch kreativ nutzen zu können, braucht es einen neuen Journalismus. Den Journalismus der Dinge.*
 
 1. **Dinge vermitteln die Welt.** Jeden Tag erheben Sensoren Massen von Daten. Wer alternative Sichtweisen der Welt und damit andere Entscheidungen zur Debatte stellen will, muss sowohl die erhobenen Daten reproduzieren als auch andere Messweisen durchführen können. Dinge sind eine neue Hardware des Journalismus.
